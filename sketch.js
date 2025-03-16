@@ -83,8 +83,8 @@ function draw() {
     // ---------------------------
     // 绘制 PNG 框架图：定位于大拇指的右边
     // ---------------------------
-    let frameWidth = 400; // 设置 PNG 图像的宽度
-    let frameHeight = 400; // 设置 PNG 图像的高度
+    let frameWidth = 800; // 设置 PNG 图像的宽度
+    let frameHeight = 800; // 设置 PNG 图像的高度
     let frameX = thumbX + 30; // 大拇指的右边
     let frameY = thumbY - frameHeight / 2; // 居中对齐大拇指的 Y 位置
 
