@@ -7,7 +7,7 @@ function preload() {
   // 加载 ml5.js 的 handPose 模型（注意大写 P）
   handPose = ml5.handPose();
   // 加载 PNG 图片，请确保 frame.png 在项目目录中
-  frameImg = loadImage("frame.png");
+  frameImg = loadImage("Frame 2.png");
 }
 
 function setup() {
